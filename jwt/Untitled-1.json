@@ -1,0 +1,11 @@
+projects : [
+    { id: 1,name: "Ram's Project", userId: 1 ,progress:89},
+    { id: 2, name: "Samyak's Project", userId: 2 ,progress:19},
+    { id: 3, name: "Ritesh's Project", userId: 3 ,progress:23}
+  
+]
+  o/p
+  projects=[Ram's Project,Samyak's Project,Ritesh's Project]
+
+
+
